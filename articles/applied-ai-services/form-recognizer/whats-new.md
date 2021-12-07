@@ -98,7 +98,7 @@ The `BuildModelOperation` and `CopyModelOperation` now correctly populate the `P
 
 * [**Form Recognizer Studio**](https://formrecognizer.appliedai.azure.com) To simplify use of the service, you can now access the Form Recognizer Studio to test the different prebuilt models or label and train a custom model
 
-Get stared with the new [REST API](https://westus2.dev.cognitive.microsoft.com/docs/services/form-recognizer-api-v2-1/operations/AnalyzeWithCustomForm), [Python](quickstarts/try-v3-python-sdk.md), or [.NET](quickstarts/try-v3-csharp-sdk.md) SDK for the v3.0 preview API.
+Get stared with the new [REST API](https://westus.dev.cognitive.microsoft.com/docs/services/form-recognizer-api-v3-0-preview-1/operations/AnalyzeDocument), [Python](quickstarts/try-v3-python-sdk.md), or [.NET](quickstarts/try-v3-csharp-sdk.md) SDK for the v3.0 preview API.
 
  #### Form Recognizer model data extraction
 
